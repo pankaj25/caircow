@@ -16,6 +16,7 @@ export default class HomepageHeader extends Component{
         return(
         <Header>
           <img src={imageURL} width="72" height="42" />
+          <h1>menu</h1>
         </Header>
         )
     }
